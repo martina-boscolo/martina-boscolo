@@ -1,7 +1,4 @@
-<video width="100%" autoplay muted loop>
-    <source src="mare.mp4" type="video/mp4">
-</video>
-
+<img src="campanile.jpg" alt="sky" width="100%" title="sky" />
 
 <h1 align="left">Hi 👋, I'm Martina</h1>
 - 👀 I’m interested in Software Engineering and AI
