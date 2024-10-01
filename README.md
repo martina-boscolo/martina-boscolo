@@ -1,5 +1,9 @@
-<h1 align="left">Hi 👋, I'm Martina</h1>
+<video width="100%" autoplay muted loop>
+    <source src="mare.mp4" type="video/mp4">
+</video>
 
+
+<h1 align="left">Hi 👋, I'm Martina</h1>
 - 👀 I’m interested in Software Engineering and AI
 - 🌱 I’m currently studying for my Master's degree in AI and Robotics
 - 🌊 I enjoy swimming
