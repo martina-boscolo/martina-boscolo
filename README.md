@@ -88,7 +88,7 @@
 
 
 <h2 align="left">📫 Reach me: </h2>
-<p align="left" href="https://www.linkedin.com/in/martina-boscolo-bacheto" target="_blank" rel="noreferrer">
+<a align="left" href="https://www.linkedin.com/in/martina-boscolo-bacheto" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn_logo_initials" width="40"
     height="40" title="LinkedIn" />
-</p>
+</a>
