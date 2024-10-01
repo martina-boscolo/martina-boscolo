@@ -1,4 +1,4 @@
-<img src="campanile.jpg" alt="sky" width="100%" title="sky" />
+<img src="helsinki.jpg" alt="helsinki" width="100%" title="helsinki" />
 
 <h1 align="left">Hi 👋, I'm Martina</h1>
 - 👀 I’m interested in Software Engineering and AI
