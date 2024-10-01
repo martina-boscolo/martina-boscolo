@@ -1,10 +1,13 @@
 <img src="helsinki.jpg" alt="helsinki" width="100%" title="helsinki" />
 
 <h1 align="left">Hi 👋, I'm Martina</h1>
-- 👀 I’m interested in Software Engineering and AI
-- 🌱 I’m currently studying for my Master's degree in AI and Robotics
-- 🌊 I enjoy swimming
-
+<p align="left">
+    <ul>
+        <li>👀 I’m interested in Software Engineering and AI</li>
+        <li>🌱 I’m currently studying for my Master's degree in AI and Robotics</li>
+        <li>🌊 I enjoy swimming</li>
+    </ul>
+</p>
 
 <h2 align="left">💻 Tech Stack:</h2>
 
